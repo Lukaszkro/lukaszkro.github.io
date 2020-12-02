@@ -1,0 +1,134 @@
+﻿body
+{
+    color: #333;
+    padding-left: 25px;
+    padding-right: 25px;
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+}
+#container {
+    width: 1100px;
+    margin: 0 auto;
+}
+
+.navlinks a
+{
+    text-decoration:none;
+    color: #333;
+}
+
+    .navlinks a:hover {
+        text-decoration: none;
+        color: #333;
+        border-bottom: 4px solid #397259;
+    }
+
+
+a:link {
+    text-decoration: none;
+    color: #333;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #333;
+}
+
+h2{
+    letter-spacing:2px;
+}
+
+#border {
+    border-bottom: 4px solid #397259;
+    border-top: 4px solid #397259;
+    width:6%;
+    padding:  20px 0px;
+}
+
+#wsp {
+    margin-top: 30px;
+    background-color: #397259;
+    padding: 30px 30px;
+    width: 100% !important;
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+
+#wsp h4
+{
+    color: #fff;
+    text-align:center;
+    letter-spacing:2px;
+    font-size:1.2rem;
+}
+
+.whitebtn {
+    padding: 12px 60px;
+    background-color: #fff;
+    border-radius: 4px;
+    border: 2px solid #397259;
+    
+}
+
+
+.text
+{
+    font-size:18px;
+    letter-spacing:1px;
+}
+#quote {
+    font-style: italic;
+    font-size: 18px;
+}
+
+.whitebtn a {
+    color: #397259;
+    letter-spacing: 2px;
+}
+
+#lead
+{
+    margin-top:250px;
+}
+
+/*Footer*/
+
+footer {
+    background-color: #397259;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+
+footer h1
+{
+    text-align: center;
+    color: #fff;
+}
+
+footer a, h5
+{
+    text-align: center !important;
+    color: #fff;
+}
+
+footer hr
+{
+    width:90%;
+}
+
+
+#borderomnie {
+    border-bottom: 4px solid #397259;
+    border-top: 4px solid #397259;
+  
+    padding: 20px 0px;
+}
+
+
+.leadtext
+{
+    font-size:25px;
+}
