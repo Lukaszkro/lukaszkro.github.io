@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 2</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-129.000000, -7122.000000)" stroke="#A3B1AF">
+            <g id="Group-2" transform="translate(179.000000, 7172.000000) rotate(-90.000000) translate(-179.000000, -7172.000000) translate(129.000000, 7122.000000)">
+                <circle id="Oval" cx="50" cy="50" r="49.5"></circle>
+                <g id="Group" transform="translate(37.138696, 34.513274)">
+                    <polyline id="Path" points="0 18.5816072 12.7284816 30.9709877 24.7787611 18.5816072"></polyline>
+                    <line x1="12.8613042" y1="30.5309735" x2="12.8613042" y2="0.442477876" id="Line-2" stroke-linecap="square"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
